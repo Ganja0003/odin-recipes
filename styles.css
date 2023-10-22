@@ -1,0 +1,27 @@
+body{
+    background-color: aquamarine;
+}
+
+h1{
+    text-align: center;
+}
+ .center{
+    display: block;
+    margin-left: auto;
+    margin-right: auto;s
+    width: 50%;
+ }
+
+ ul{
+    list-style-type:none;
+    display:flex;
+    justify-content: center;
+  
+  }
+  ul li{
+    display: list-item;
+    background: black;
+    padding: 5px 10px;
+    color:white;
+    margin: 0 3px;
+  }
